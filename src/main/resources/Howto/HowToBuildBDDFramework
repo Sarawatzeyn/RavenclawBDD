@@ -1,0 +1,8 @@
+step 1-build maven framework appropriately
+step-2 configure pom.xml file
+properties-- java version
+dependencies-- selenium,WebDriverManager,cucumber,junit
+plug ins-- surefire plugin
+step-3 add cucumber plug in
+step 4 build feature folder and feature file
+step 5 convert into cucumber framework
