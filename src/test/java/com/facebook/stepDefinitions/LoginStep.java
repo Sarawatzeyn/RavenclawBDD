@@ -24,6 +24,7 @@ WebDriver driver;
 	@When("I enter my valid user name")
 	public void iEnterMyValidUserName() {
 		driver.findElement(By.id("email")).sendKeys("jjj");
+		
 	}
 	@When("I enter my valid password")
 	public void iEnterMyValidPassword() {
