@@ -12,7 +12,7 @@ plugin ={"pretty", "html:target/facebookReport.html"},
 
 features="src/test/resources/features",
 glue="com.facebook.stepDefinitions",
-tags="@common",
+tags="@Registration",
 snippets=SnippetType.CAMELCASE
 
 
